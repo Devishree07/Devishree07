@@ -1,4 +1,4 @@
-## heya, 
+## hello there
 uhm i rot and code (a little) ^_^
 <!--
 **Devishree07/Devishree07** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
