@@ -1,5 +1,3 @@
-hello
-
 ## Hello there 
 uhm i rot and code (a little) ^_^
 <!--
